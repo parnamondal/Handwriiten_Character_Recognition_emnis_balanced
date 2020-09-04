@@ -112,7 +112,7 @@ We will use the predict function along with the parameter being only the normali
 After fitting the model with the hyperparameters of validation split of 0.10(from the testing batch)  , epoch number = 20 ,batch_size =512 and verbose =2 , we got two graphs for the model.
 Graph for the classification accuracy
 Graph for the cross-entropy loss
-![Alt Text](Images/Accuracy.jpg)
+![Alt Text](Images\accuracy.jpg)
 
 Below are the screenshots of the predictions of the external images that were feeded into the model with an average accuracy of more than 88% accuracy .
   
